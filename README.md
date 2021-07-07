@@ -1,4 +1,4 @@
-# Impact-of-Covid-19-on-Airline-Industry-and-Unemployment-Rate
+# Visualizing the impacts-of-Covid-19-on-Airline-Industry-and-Unemployment-Rate
 
 
 Impact of Covid-19 on Airline Industry and Unemployment Rate. Analysis of Covid-19 by Race and maximum number of Unemployment claims received in USA.
